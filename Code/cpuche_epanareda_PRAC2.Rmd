@@ -345,7 +345,10 @@ Observant la posició de la mediana en els diagrames de caixes respecte als quar
 Les hipòtesis nul·la i alternativa d'aquest contrast d'hipòtesi són:
 
 $$
-H_{0}:\ \ \ \ \mu_{survived}=\mu_{no\_survived} \\
+H_{0}:\ \ \ \ \mu_{survived}=\mu_{no\_survived}
+$$
+
+$$
 H_{1}:\ \ \ \ \mu_{survived}<\mu_{no\_survived}
 $$
 
@@ -367,7 +370,10 @@ Es pot observar que el p-valor representa un valor de 0.048 que és inferior a 0
 El segon contrast d'hipòtesi serà sobre la proporció de supervivents dones i homes. Per tant, les hipòtesis nul·la i alternativa són:
 
 $$
-H_{0}:\ \ \ \ p_{female}=p_{male} \\
+H_{0}:\ \ \ \ p_{female}=p_{male}
+$$
+
+$$
 H_{1}:\ \ \ \ p_{female}>p_{male}
 $$
 
@@ -397,7 +403,10 @@ A la taula ja es pot observar que les dones que sobreviuen són 233 de 314 mentr
 El tercer contrast d'hipòtesi també serà sobre la proporció, tot i que en aquest cas es voldrà comparar la proporció de passatgers que van sobreviure que tenien familia a bord amb aquells que van sobreviure i que no tenien familia. 
 
 $$
-H_{0}:\ \ \ \ p_{family}=p_{non-family} \\
+H_{0}:\ \ \ \ p_{family}=p_{non-family}
+$$
+
+$$
 H_{1}:\ \ \ \ p_{family}>p_{non-family}
 $$
 
@@ -428,7 +437,10 @@ Observant la taula es pot comprobar que els que supervivents que no tenen famíl
 A continuació es procedirà a realitzar un contrast d'hipòtesi que compari la proporció de supervivents de primera classe amb els de segona classe. Per tant, les hipòtesis nul·la  i alternativa a demostrar són:
 
 $$
-H_{0}:\ \ \ \ p_{class1}=p_{class2} \\
+H_{0}:\ \ \ \ p_{class1}=p_{class2}
+$$
+
+$$
 H_{1}:\ \ \ \ p_{class1}>p_{class2}
 $$
 
@@ -458,7 +470,10 @@ Primerament es visualitzen les dades mitjançant la taula en la que es pot obser
 Per extreure conclusió sobre la proporció de supervivents entre classes s'ha de comparar també la tercera classe. Per tant, el següent contrast d'hipòtesi compararà les proporcions entre els supervivents de segona i tercera classe. Les hipòtesi nul·la i alternativa d'aquest model seràn:
 
 $$
-H_{0}:\ \ \ \ p_{class2}=p_{class3} \\
+H_{0}:\ \ \ \ p_{class2}=p_{class3}
+$$
+
+$$
 H_{1}:\ \ \ \ p_{class2}>p_{class3}
 $$
 
@@ -485,7 +500,10 @@ A la taula mostrada al contrast d'hipòtesi anterior es pot observar que els sup
 A continuació es procedirà a analitzar la proporció de supervivents en funció de la ciutat d'embarcament. Inicialment, es començarà a fer un contrast d'hipòtesi que compari la proporció de supervivents que van embarcar a Cherbourg amb els que van embarcar a Queenstown. Per tant, les hipòtesis nul·la i alternativa seràn:
 
 $$
-H_{0}:\ \ \ \ p_{Cherbourg}=p_{Queenstown} \\
+H_{0}:\ \ \ \ p_{Cherbourg}=p_{Queenstown}
+$$
+
+$$
 H_{1}:\ \ \ \ p_{Cherbourg}>p_{Queenstown}
 $$
 
@@ -516,7 +534,10 @@ Mitjançant la taula es pot comprobar que els passatgers que sobreviuen que emba
 Per extreure conclusions definitives sobre el lloc d'embarcament caldria incloure els van embarcar a Southampton. Dit això, aquest últim contrast d'hipòtesi compararà els supervivents que van embarcar a Queenstown amb els de Southampton. La hipòtesi nul·la i la hipòtesi alternativa s'escriuen a continuació:
 
 $$
-H_{0}:\ \ \ \ p_{Queenstown}=p_{Southampton} \\
+H_{0}:\ \ \ \ p_{Queenstown}=p_{Southampton}
+$$
+
+$$
 H_{1}:\ \ \ \ p_{Queenstown}>p_{Southampton}
 $$
 
